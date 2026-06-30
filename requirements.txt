@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jul  1 01:31:43 2026
+
+@author: Elisa Spiteri
+"""
+
+numpy
+pandas
+pydicom
+matplotlib
+scipy
+openpyxl
